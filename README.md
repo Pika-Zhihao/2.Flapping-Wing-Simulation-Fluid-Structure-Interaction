@@ -1,7 +1,9 @@
 1.ASRC have the licenses of Notepad++, Simens NX & Spaceclaim, Fluent Mesh, PSPad editor , Tecplot
 ,and this project aims to introduce the knowledge about the FSI without commerical benefits.
 
-2.
+2.Using overlapping meshes in Fluent to simulate a 2D wing flapping motion through dynamic mesh analysis.
+Detailed technical and data analysis can be found in these two documents: Project 2 Total Technical 
+Introduction and Project 2 Simulation setting and result analysis.
 
 3.Reference video:
 (0) https://zhuanlan.zhihu.com/p/574164035
